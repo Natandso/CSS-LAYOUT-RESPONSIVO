@@ -105,7 +105,7 @@
     /* o flex flow faz o mesmo que a linha 18 e 19 */
 }
 
-/* HEADER PARA TABLETS */
+/* HEADER PARA MOBILE*/
 @media (min-width: 834px) {
     .cabecalho__pesquisar__item {
         display: block;
@@ -133,6 +133,7 @@
 
 }
 
+/* HEADER PARA TABLETS */
 @media (min-width: 1440px) {
     .menu__container {
         width: 14.938rem;
