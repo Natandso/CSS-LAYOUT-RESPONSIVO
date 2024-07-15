@@ -23,7 +23,7 @@
 
 
 
-# Tela com 834px(Menu lateral)
+# Tela Tablet (Menu lateral)
 
 ![MenuLateral (1)](https://github.com/user-attachments/assets/19e0f628-c52b-4e3e-9152-8a43eb8fc939)
 
