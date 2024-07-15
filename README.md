@@ -16,6 +16,9 @@
 
 
 ## Por Dentro do Projeto
+#Demonstrando na prática
+<img align="left" alt="demonstration" width="500" height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA0cmNoYm42b2NnMmYyenN4bHQ0OG8zcHFraXk4M3FyYmwyNHdiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsJ9F2jH1KY9WFWjS/giphy.gif">
+
 
 # Tela inteira(Desktop)
 
@@ -33,5 +36,4 @@
 
 ![mobile (1)](https://github.com/user-attachments/assets/1ccccdf0-8d41-4b18-bcde-d11506d3fcca)
 
-<img align="left" alt="demonstration" width="700" height="700" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzA0cmNoYm42b2NnMmYyenN4bHQ0OG8zcHFraXk4M3FyYmwyNHdiMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LLsJ9F2jH1KY9WFWjS/giphy.gif">
 
