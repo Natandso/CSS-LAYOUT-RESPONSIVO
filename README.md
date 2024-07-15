@@ -34,8 +34,6 @@
 ![mobile (1)](https://github.com/user-attachments/assets/1ccccdf0-8d41-4b18-bcde-d11506d3fcca)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=GWrjzVjj9j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
