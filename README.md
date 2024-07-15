@@ -17,17 +17,22 @@
 
 ## Por Dentro do Projeto
 
-# Tela com 834px(Menu lateral)
-![MenuLateral](https://github.com/user-attachments/assets/9b4b8e4a-1deb-480d-9c4e-ea0554418183)
-
-
 # Tela inteira(Desktop)
 
-![Desktop](https://github.com/user-attachments/assets/8118f3ce-ff48-4f80-a978-5e9ed1ddba4f)
+![Desktop (1)](https://github.com/user-attachments/assets/17397b88-413e-4301-ac97-d95b56cf5207)
+
+
+
+# Tela com 834px(Menu lateral)
+
+![MenuLateral (1)](https://github.com/user-attachments/assets/19e0f628-c52b-4e3e-9152-8a43eb8fc939)
+
+
 
 # Tela Mobile (Menu inferior)
 
-![mobile](https://github.com/user-attachments/assets/7b4ff016-1b65-4416-8e65-a8d829bc7585)
+![mobile (1)](https://github.com/user-attachments/assets/1ccccdf0-8d41-4b18-bcde-d11506d3fcca)
+
 
 
 
