@@ -99,18 +99,16 @@
 /* FOOTER */
 .rodape__container {
     display: flex;
-    /* flex-direction: column;
-    flex-wrap: wrap; */
     flex-flow: column wrap;
-    /* o flex flow faz o mesmo que a linha 18 e 19 */
 }
 
-/* HEADER PARA MOBILE*/
 @media (min-width: 834px) {
+    /* HEADER*/
     .cabecalho__pesquisar__item {
         display: block;
     }
 
+        /* Menu on the left side */
     .menu__container {
         left: 0;
         width: 4.625rem;
@@ -125,7 +123,7 @@
         gap: 2rem;
     }
 
-    /* FOOTER PARA MOBILE */
+    /* FOOTER */
     .rodape__container {
         justify-content: space-between;
 
@@ -133,8 +131,8 @@
 
 }
 
-/* HEADER PARA TABLETS */
 @media (min-width: 1440px) {
+    /* MENU */
     .menu__container {
         width: 14.938rem;
         overflow: auto;
