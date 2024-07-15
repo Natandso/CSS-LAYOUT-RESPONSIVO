@@ -11,7 +11,7 @@
  **Front-End:** HTML Semântico, CSS-FLEXBOX, Responsividade.
 
  ## Autores
-- [@Natan Santana (Aero)](https://github.com/Natandso)
+  [@Natan Santana (Aero)](https://github.com/Natandso)
 
 
 
