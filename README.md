@@ -36,6 +36,6 @@
 
 # Demonstrando na prática
 
- <img align="left" alt="demonstration" width="480" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhwbWVkaHl6MmhoMXE3YjMyOHYwZDF5Y2psNnBvNGszN3oyMDdwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ofeCRwzqyEweOP1JtW/giphy.gif">
+ <img align="left" alt="demonstration" width="480" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3hmdmpmN3FzMjF5NTBlemx4MHR4a3Iwd3JxMzFmZGN5emlrejc4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UoxYrytDgtSFtXlgKP/giphy.gif">
 
 
