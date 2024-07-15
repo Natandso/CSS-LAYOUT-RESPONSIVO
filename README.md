@@ -8,10 +8,10 @@
 
  ##Stack utilizada
 
-##Front-End##: HTML Semântico, CSS-FLEXBOX, Responsividade.
+ **Front-End:** HTML Semântico, CSS-FLEXBOX, Responsividade.
 
-## Autores
+ ## Autores
 
 - [@Natan Santana (Aero)](https://github.com/Natandso)
 
-- ## Por Dentro do Projeto
+  ## Por Dentro do Projeto
