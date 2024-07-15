@@ -1,6 +1,6 @@
 # PLAYER-VIDEOS-LAYOUT-RESPONSIVO
 
- Projeto  focado em contruir um layout reponsivo para 3 telas: Tablet, Mobile, Desktop.
+ Projeto  focado em construir um player de videos baseado no youtube aonde foco em um layout reponsivo para 3 telas: Tablet, Mobile, Desktop.
 
  ##Aprendizados
 
